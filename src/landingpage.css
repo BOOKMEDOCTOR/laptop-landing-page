@@ -1,0 +1,90 @@
+.landing-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .header p {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .image-container {
+    margin: 20px 0;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .subscription-form {
+    margin: 20px 0;
+  }
+  
+  .subscription-form h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .subscription-form form {
+    display: inline-block;
+  }
+  
+  .subscription-form input {
+    padding: 10px;
+    font-size: 1em;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .subscription-form button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .subscription-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 1em;
+    color: #666;
+  }
+  
+  .social-media-links a {
+    margin: 0 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .social-media-links a:hover {
+    text-decoration: underline;
+  }
